@@ -2,7 +2,7 @@ variable "project_name" {
   description = "GCP Project name"
   type        = string
 }
-
+#Aplicacao em outra regiao e zona
 variable "region" {
   description = "Google Cloud region"
   type        = string
